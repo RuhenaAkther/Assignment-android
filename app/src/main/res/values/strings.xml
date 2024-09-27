@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment1</string>
+    <string name="Welcome">Welcome</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_user_id">enter user Id</string>
+    <string name="enter_your_id">Enter Your ID</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="title_text">Select Department:</string>
+    <string name="CSE_text">CSE</string>
+    <string name="EEE_text">EEE</string>
+    <string name="Bangla_text">Bangla</string>
+    <string name="English_text">English</string>
+    <string name="select_t_shirt_size">Select T-shirt Size:</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="xl">XL</string>
+    <string name="xxl">XXL</string>
+    <string name="t_shirt_quantity">T-shirt Quantity</string>
+    <string name="_0">0</string>
+    <string name="price_bdt_250_each">Price (BDT 250 each)</string>
+    <string name="bdt_0">BDT 0</string>
+    <string name="rating_0_0">Rating: 0.0</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="r">-</string>
+    <string name="add">+</string>
+    <string name="place_order">Place Order</string>
+    <string name="adaptive_brightness">Adaptive Brightness</string>
+</resources>
